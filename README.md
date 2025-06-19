@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📋 Mini To-Do List com LocalStorage
 Uma aplicação simples de lista de tarefas (To-Do List) desenvolvida em HTML, CSS e JavaScript puro. As tarefas são armazenadas localmente no navegador usando o LocalStorage, garantindo que não sejam perdidas ao recarregar a página.
 
@@ -51,3 +52,7 @@ Abra uma Issue para sugestões ou envie um Pull Request com melhorias.
 Feito com 💙 por Diego Pires
 🔗 GitHub
 
+=======
+# mini-to-do-list
+Mini To-Do List com HTML, CSS e JS, usando LocalStorage para salvar tarefas no navegador.
+>>>>>>> 5b1ea2254b45106d75d75fc797762bfc8f7be38a
